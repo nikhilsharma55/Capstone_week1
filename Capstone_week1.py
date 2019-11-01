@@ -3,9 +3,5 @@
 
 import numpy as np
 import pandas as pd
-
-
-# In[6]:
-
 print("Hello Capstone Project Course!")
 
